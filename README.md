@@ -28,4 +28,16 @@ d. Calculate sum of first ‘n’ natural numbers
 
 **WAP to create a pyramid of the character ‘*’ and a reverse pyramid.**
 
-![image alt](
+![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/65c01eb57bf2370dab3bf52dd3d72a3988e312c3/tempImageaRBEJ5-0000.jpg)
+
+# 4.Program
+
+** WAP that accepts a character and performs the following:
+
+a. print whether the character is a letter or numeric digit or a special
+character.
+
+b. if the character is a letter, print whether the letter is uppercase or
+lowercase.
+
+c. if the character is a numeric digit, prints its name in text
