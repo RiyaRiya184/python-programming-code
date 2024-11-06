@@ -43,3 +43,23 @@ lowercase.
 c. if the character is a numeric digit, prints its name in text
 
 ![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/ffeef4def4e23a64fbf138a2a554620476a896f3/program%204.jpg)
+
+# 5.Program
+
+**5. WAP to perform the following operations on a string.**
+
+1.find the frequecy of a character in a string.
+
+![image alt](
+
+2.Replace a character by another character in a string.
+
+![image alt](
+
+3.Remove the first occurance of a character in a string.
+
+![image alt](
+
+4.Remove the all occurance of a character from a string.
+
+![image alt](
