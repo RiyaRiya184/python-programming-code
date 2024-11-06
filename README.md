@@ -63,3 +63,9 @@ c. if the character is a numeric digit, prints its name in text
 4.Remove the all occurance of a character from a string.
 
 ![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/731ed076ef61c06db452b0a2c278224f95bc9d7d/5.4.jpg)
+
+# 6.Program
+
+**WAP to swap the first n characters of two strings.**
+
+![image alt](
