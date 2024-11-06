@@ -41,3 +41,5 @@ b. if the character is a letter, print whether the letter is uppercase or
 lowercase.
 
 c. if the character is a numeric digit, prints its name in text
+
+![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/ffeef4def4e23a64fbf138a2a554620476a896f3/program%204.jpg)
