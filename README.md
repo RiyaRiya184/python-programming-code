@@ -76,4 +76,4 @@ c. if the character is a numeric digit, prints its name in text
 second string in the first string as a list.If the second string is not present in present in first string then it
 should return -1.**
 
-![image alt](
+![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/70e5ea3f212150d0982b062764553e6a34d87d70/program7.jpg)
