@@ -14,4 +14,8 @@ a. Check if "n" is prime or not.
 
 b. Generate all prime numbers till "n".
 
+![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/656ce54c5a2fe0af1f93f09b1d19d22b6e24ef0c/tempImageEpzxvp-0000.jpg)
+
+c. Generate First "n" prime number.
+
 ![image alt](
