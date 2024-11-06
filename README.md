@@ -50,7 +50,7 @@ c. if the character is a numeric digit, prints its name in text
 
 1.find the frequecy of a character in a string.
 
-![image alt](
+![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/1904a5af64c8bc6696eae7dee80c3420fe0a43ad/program5%20.1.jpg)
 
 2.Replace a character by another character in a string.
 
