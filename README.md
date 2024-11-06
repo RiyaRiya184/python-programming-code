@@ -69,3 +69,11 @@ c. if the character is a numeric digit, prints its name in text
 **WAP to swap the first n characters of two strings.**
 
 ![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/d32d1d85f14f76a6b886f3ef618a82b12dc2dd43/program%206.jpg)
+
+# 7.Program
+
+**write a function that accepts two string and returns the indices of all the occurences of the
+second string in the first string as a list.If the second string is not present in present in first string then it
+should return -1.**
+
+![image alt](
