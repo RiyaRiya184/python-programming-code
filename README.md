@@ -18,4 +18,8 @@ b. Generate all prime numbers till "n".
 
 c. Generate First "n" prime number.
 
+![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/07f95f8fbdd4dd2b83fb38a172c58f7f9b2d2965/question%20C.jpeg)
+
+d. Calculate sum of first ‘n’ natural numbers
+
 ![image alt](
