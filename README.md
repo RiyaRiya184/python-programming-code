@@ -83,4 +83,4 @@ should return -1.**
 **WaP to create a list of only the even integers appearing in the input list(may have elements of
 other types) using for loop and list comprehension.**
 
-![image alt](
+![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/98903670b61af6c56a547d9070bfff5b0699661b/program8.jpg)
