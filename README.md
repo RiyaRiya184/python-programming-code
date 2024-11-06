@@ -8,5 +8,10 @@
 
 **WAP to accept a number ofber "n" to compute the following:**
 
-![image alt](
+a. Check if "n" is prime or not.
 
+![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/a9f2858cec65c38b2b4fc5e7d65346ff3b63b007/tempImagelW6co1-0000.jpg)
+
+b. Generate all prime numbers till "n".
+
+![image alt](
