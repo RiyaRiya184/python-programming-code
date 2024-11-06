@@ -77,3 +77,10 @@ second string in the first string as a list.If the second string is not present 
 should return -1.**
 
 ![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/70e5ea3f212150d0982b062764553e6a34d87d70/program7.jpg)
+
+# 8.Program
+
+**WaP to create a list of only the even integers appearing in the input list(may have elements of
+other types) using for loop and list comprehension.**
+
+![image alt](
