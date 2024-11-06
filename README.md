@@ -68,4 +68,4 @@ c. if the character is a numeric digit, prints its name in text
 
 **WAP to swap the first n characters of two strings.**
 
-![image alt](
+![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/d32d1d85f14f76a6b886f3ef618a82b12dc2dd43/program%206.jpg)
