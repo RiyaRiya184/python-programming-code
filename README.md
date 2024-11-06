@@ -22,4 +22,10 @@ c. Generate First "n" prime number.
 
 d. Calculate sum of first ‘n’ natural numbers
 
+![image alt](https://github.com/RiyaRiya184/python-programming-code/blob/5d92ba5290b750f6d2dc1539418d78e8514da60f/question%20D.jpeg)
+
+# 3.Program
+
+**WAP to create a pyramid of the character ‘*’ and a reverse pyramid.**
+
 ![image alt](
